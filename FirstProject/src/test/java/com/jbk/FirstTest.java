@@ -10,4 +10,11 @@ public class FirstTest {
 		
 		System.out.println("hello");
 	}
+	
+	@Test
+	public void test02() {
+		
+		System.out.println("hello world");
+	}
+	
 }	
